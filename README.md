@@ -4,7 +4,10 @@ Repository for Hactoberfest2021.
 
 Important links
 Visit the Hacktoberfest website here https://hacktoberfest.digitalocean.com/
-Checkout the cooool Swags for this year https://hacktoberfestswaglist.com/
+
+Checkout the cool Swags for this year https://hacktoberfestswaglist.com/
+
+
 Remember Win Hearts 💕 not just swags
 Contribute to opensourse
 
