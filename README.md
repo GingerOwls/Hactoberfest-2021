@@ -17,4 +17,4 @@ General Rules
 * You can comit poems, Codes, about you in this repository..
 * If Folder for that programming language is not available, You can make folder using / for eg. If you want to make directory for C Give File Name as C/Filename.C
 
-Happy Contributing
+Happy contributing!
