@@ -18,3 +18,10 @@ General Rules
 * If Folder for that programming language is not available, You can make folder using / for eg. If you want to make directory for C Give File Name as C/Filename.C
 
 Happy contributing!
+
+
+Simplified Image of what commands are using:
+
+![Creating Repo](https://user-images.githubusercontent.com/85699796/138583271-1482289e-2f7e-4aae-96c4-6f126e816e70.png)
+
+
